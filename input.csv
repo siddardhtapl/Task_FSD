@@ -1,0 +1,51 @@
+block_id,subgroup,sub_class,current_value,actual_value
+ITS_01,Modules,Complete,0,84
+ITS_01,Modules,Partially,0,84
+ITS_01,Modules,Incomplete,84,84
+ITS_01,MMS,Partially,0,84
+ITS_01,MMS,Complete,0,84
+ITS_01,MMS,Incomplete,84,84
+ITS_01,Piling,Pile Casting,1508,1512
+ITS_01,Piling,Auguring,1512,1512
+ITS_01,Piling,Marking,1512,1512
+ITS_01,Piling,Incomplete,0,1512
+ITS_02,Modules,Complete,0,147
+ITS_02,Modules,Partially,0,147
+ITS_02,Modules,Incomplete,147,147
+ITS_02,MMS,Partially,0,147
+ITS_02,MMS,Complete,0,147
+ITS_02,MMS,Incomplete,147,147
+ITS_02,Piling,Pile Casting,708,2638
+ITS_02,Piling,Auguring,2638,2638
+ITS_02,Piling,Marking,2638,2638
+ITS_02,Piling,Incomplete,0,2638
+ITS_03,Modules,Complete,0,190
+ITS_03,Modules,Partially,0,190
+ITS_03,Modules,Incomplete,190,190
+ITS_03,MMS,Partially,0,190
+ITS_03,MMS,Complete,0,190
+ITS_03,MMS,Incomplete,190,190
+ITS_03,Piling,Pile Casting,737,3420
+ITS_03,Piling,Auguring,3402,3420
+ITS_03,Piling,Marking,3402,3420
+ITS_03,Piling,Incomplete,18,3420
+ITS_04,Modules,Complete,0,150
+ITS_04,Modules,Partially,0,150
+ITS_04,Modules,Incomplete,150,150
+ITS_04,MMS,Partially,0,150
+ITS_04,MMS,Complete,0,150
+ITS_04,MMS,Incomplete,150,150
+ITS_04,Piling,Pile Casting,322,2700
+ITS_04,Piling,Auguring,2700,2700
+ITS_04,Piling,Marking,2700,2700
+ITS_04,Piling,Incomplete,0,2700
+ITS_05,Modules,Complete,0,121
+ITS_05,Modules,Partially,0,121
+ITS_05,Modules,Incomplete,121,121
+ITS_05,MMS,Partially,0,121
+ITS_05,MMS,Complete,0,121
+ITS_05,MMS,Incomplete,121,121
+ITS_05,Piling,Pile Casting,2000,2178
+ITS_05,Piling,Auguring,2156,2178
+ITS_05,Piling,Marking,2156,2178
+ITS_05,Piling,Incomplete,22,2178

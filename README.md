@@ -1,5 +1,5 @@
 # Task Description
-Takvaviya is a drone based organisation. We have a drone team with us. The drone team will travel to the project site that is to be monitored and acquire data periodically.You are provided with three files 2019-12-06.csv,2019-12-07.csv (input csvs) and sample_output.json. The two csv files denote the periodic assesment values of the same solar power plant on two dates as mentioned in the file names.Design the Database models as required for this task. Your are supposed to create two APIs
+Takvaviya is a drone based organisation. We have a drone team with us. The drone team will travel to the project site that is to be monitored and acquire data periodically.You are provided with three files 2019-12-06.csv,2019-12-07.csv (input csv files) and sample_output.json. The two csv files denote the periodic assesment values of the same solar power plant on two dates as mentioned in the file names.Design the Database models as required for this task. Your are supposed to create two APIs
 
 # Update API
   1. The API must accept the provided input csv (one in each request) as input.

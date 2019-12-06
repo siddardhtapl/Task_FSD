@@ -10,7 +10,7 @@ Takvaviya is a drone based organisation. We have a drone team with us. The drone
 # Sample output Explanation
   1. The outer most key "2" denotes the id of the project site that was monitored.
   2. The name denotes the name of the project site.
-  3. The dates array contain the list of dates data was acquired.
+  3. The dates array contain the list of dates when the data was acquired.
  
  ** Sample output is available only for the date 2019-06-01 **
  

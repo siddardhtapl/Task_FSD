@@ -1,0 +1,92 @@
+{
+  "2": {
+    "name": "hero_thermal",
+    "dates": [
+      "2019-06-01"
+    ],
+    "2019-06-01": {
+      "ITS_01": {
+        "Modules": {
+          "Complete": {
+            "sub_class": "Complete",
+            "current_value": "0",
+            "actual_value": "84"
+          },
+          "Incomplete": {
+            "sub_class": "Incomplete",
+            "current_value": "84",
+            "actual_value": "84"
+          },
+          "Partially": {
+            "sub_class": "Partially",
+            "current_value": "0",
+            "actual_value": "84"
+          }
+        },
+        "Piling": {
+          "Pile Casting": {
+            "sub_class": "Pile Casting",
+            "current_value": "1508",
+            "actual_value": "1512"
+          },
+          "Auguring": {
+            "sub_class": "Auguring",
+            "current_value": "1512",
+            "actual_value": "1512"
+          },
+          "Marking": {
+            "sub_class": "Marking",
+            "current_value": "1512",
+            "actual_value": "1512"
+          },
+          "Incomplete": {
+            "sub_class": "Incomplete",
+            "current_value": "0",
+            "actual_value": "1212"
+          }
+        }
+      },
+      "ITS_02": {
+        "Modules": {
+          "Complete": {
+            "sub_class": "Complete",
+            "current_value": "0",
+            "actual_value": "147"
+          },
+          "Incomplete": {
+            "sub_class": "Incomplete",
+            "current_value": "147",
+            "actual_value": "147"
+          },
+          "Partially": {
+            "sub_class": "Partially",
+            "current_value": "0",
+            "actual_value": "147"
+          }
+        },
+        "Piling": {
+          "Pile Casting": {
+            "sub_class": "Pile Casting",
+            "current_value": "708",
+            "actual_value": "2638"
+          },
+          "Auguring": {
+            "sub_class": "Auguring",
+            "current_value": "2638",
+            "actual_value": "2638"
+          },
+          "Marking": {
+            "sub_class": "Marking",
+            "current_value": "2638",
+            "actual_value": "2638"
+          },
+          "Incomplete": {
+            "sub_class": "Incomplete",
+            "current_value": "0",
+            "actual_value": "2638"
+          }
+        }
+      }
+    }
+  }
+}

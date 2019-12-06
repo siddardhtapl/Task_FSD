@@ -1,0 +1,161 @@
+block_id,subgroup,sub_class,current_value,actual_value
+ICR10_T1,Modules,Complete,304,954
+ICR10_T1,Modules,Partially,13,954
+ICR10_T1,Modules,Incomplete,637,954
+ICR10_T1,MMS,Partially,6,954
+ICR10_T1,MMS,Complete,948,954
+ICR10_T1,MMS,Incomplete,0,954
+ICR10_T1,Piling,Pile Casting,5724,5724
+ICR10_T1,Piling,Auguring,5724,5724
+ICR10_T1,Piling,Marking,5724,5724
+ICR10_T1,Piling,Incomplete,0,5724
+ICR3_T2,Modules,Complete,652,941
+ICR3_T2,Modules,Partially,1,941
+ICR3_T2,Modules,Incomplete,288,941
+ICR3_T2,MMS,Partially,17,941
+ICR3_T2,MMS,Complete,914,941
+ICR3_T2,MMS,Incomplete,10,941
+ICR3_T2,Piling,Pile Casting,5635,5642
+ICR3_T2,Piling,Auguring,5635,5642
+ICR3_T2,Piling,Marking,5635,5642
+ICR3_T2,Piling,Incomplete,7,5642
+ICR16_T2,Modules,Complete,0,973
+ICR16_T2,Modules,Partially,0,973
+ICR16_T2,Modules,Incomplete,973,973
+ICR16_T2,MMS,Partially,305,973
+ICR16_T2,MMS,Complete,647,973
+ICR16_T2,MMS,Incomplete,21,973
+ICR16_T2,Piling,Pile Casting,5818,5818
+ICR16_T2,Piling,Auguring,5818,5818
+ICR16_T2,Piling,Marking,5818,5818
+ICR16_T2,Piling,Incomplete,0,5818
+ICR4_T1,Modules,Complete,519,946
+ICR4_T1,Modules,Partially,19,946
+ICR4_T1,Modules,Incomplete,408,946
+ICR4_T1,MMS,Partially,101,946
+ICR4_T1,MMS,Complete,835,946
+ICR4_T1,MMS,Incomplete,10,946
+ICR4_T1,Piling,Pile Casting,5652,5652
+ICR4_T1,Piling,Auguring,5652,5652
+ICR4_T1,Piling,Marking,5652,5652
+ICR4_T1,Piling,Incomplete,0,5652
+ICR14_T1,Modules,Complete,0,954
+ICR14_T1,Modules,Partially,0,954
+ICR14_T1,Modules,Incomplete,954,954
+ICR14_T1,MMS,Partially,40,954
+ICR14_T1,MMS,Complete,884,954
+ICR14_T1,MMS,Incomplete,30,954
+ICR14_T1,Piling,Pile Casting,5723,5724
+ICR14_T1,Piling,Auguring,5724,5724
+ICR14_T1,Piling,Marking,5724,5724
+ICR14_T1,Piling,Incomplete,0,5724
+ICR13_T2,Modules,Complete,0,960
+ICR13_T2,Modules,Partially,0,960
+ICR13_T2,Modules,Incomplete,960,960
+ICR13_T2,MMS,Partially,1,960
+ICR13_T2,MMS,Complete,959,960
+ICR13_T2,MMS,Incomplete,0,960
+ICR13_T2,Piling,Pile Casting,5736,5736
+ICR13_T2,Piling,Auguring,5736,5736
+ICR13_T2,Piling,Marking,5736,5736
+ICR13_T2,Piling,Incomplete,0,5736
+ICR1_T1,Modules,Complete,314,943
+ICR1_T1,Modules,Partially,16,943
+ICR1_T1,Modules,Incomplete,613,943
+ICR1_T1,MMS,Partially,8,943
+ICR1_T1,MMS,Complete,783,943
+ICR1_T1,MMS,Incomplete,152,943
+ICR1_T1,Piling,Pile Casting,4928,5646
+ICR1_T1,Piling,Auguring,4928,5646
+ICR1_T1,Piling,Marking,4928,5646
+ICR1_T1,Piling,Incomplete,718,5646
+ICR9_T2,Modules,Complete,818,954
+ICR9_T2,Modules,Partially,4,954
+ICR9_T2,Modules,Incomplete,132,954
+ICR9_T2,MMS,Partially,6,954
+ICR9_T2,MMS,Complete,948,954
+ICR9_T2,MMS,Incomplete,0,954
+ICR9_T2,Piling,Pile Casting,5724,5724
+ICR9_T2,Piling,Auguring,5724,5724
+ICR9_T2,Piling,Marking,5724,5724
+ICR9_T2,Piling,Incomplete,0,5724
+ICR6_T2,Modules,Complete,743,954
+ICR6_T2,Modules,Partially,4,954
+ICR6_T2,Modules,Incomplete,207,954
+ICR6_T2,MMS,Partially,18,954
+ICR6_T2,MMS,Complete,898,954
+ICR6_T2,MMS,Incomplete,38,954
+ICR6_T2,Piling,Pile Casting,5724,5724
+ICR6_T2,Piling,Auguring,5724,5724
+ICR6_T2,Piling,Marking,5724,5724
+ICR6_T2,Piling,Incomplete,0,5724
+ICR2_T2,Modules,Complete,727,947
+ICR2_T2,Modules,Partially,4,947
+ICR2_T2,Modules,Incomplete,216,947
+ICR2_T2,MMS,Partially,10,947
+ICR2_T2,MMS,Complete,929,947
+ICR2_T2,MMS,Incomplete,8,947
+ICR2_T2,Piling,Pile Casting,5652,5654
+ICR2_T2,Piling,Auguring,5652,5654
+ICR2_T2,Piling,Marking,5652,5654
+ICR2_T2,Piling,Incomplete,2,5654
+ICR12_T1,Modules,Complete,84,967
+ICR12_T1,Modules,Partially,6,967
+ICR12_T1,Modules,Incomplete,877,967
+ICR12_T1,MMS,Partially,2,967
+ICR12_T1,MMS,Complete,965,967
+ICR12_T1,MMS,Incomplete,0,967
+ICR12_T1,Piling,Pile Casting,5749,5750
+ICR12_T1,Piling,Auguring,5749,5750
+ICR12_T1,Piling,Marking,5749,5750
+ICR12_T1,Piling,Incomplete,1,5750
+ICR11_T2,Modules,Complete,327,954
+ICR11_T2,Modules,Partially,5,954
+ICR11_T2,Modules,Incomplete,622,954
+ICR11_T2,MMS,Partially,7,954
+ICR11_T2,MMS,Complete,943,954
+ICR11_T2,MMS,Incomplete,4,954
+ICR11_T2,Piling,Pile Casting,5724,5724
+ICR11_T2,Piling,Auguring,5724,5724
+ICR11_T2,Piling,Marking,5724,5724
+ICR11_T2,Piling,Incomplete,0,5724
+ICR7_T2,Modules,Complete,631,954
+ICR7_T2,Modules,Partially,8,954
+ICR7_T2,Modules,Incomplete,315,954
+ICR7_T2,MMS,Partially,10,954
+ICR7_T2,MMS,Complete,935,954
+ICR7_T2,MMS,Incomplete,9,954
+ICR7_T2,Piling,Pile Casting,5724,5724
+ICR7_T2,Piling,Auguring,5724,5724
+ICR7_T2,Piling,Marking,5724,5724
+ICR7_T2,Piling,Incomplete,0,5724
+ICR5_T1,Modules,Complete,310,954
+ICR5_T1,Modules,Partially,1,954
+ICR5_T1,Modules,Incomplete,643,954
+ICR5_T1,MMS,Partially,17,954
+ICR5_T1,MMS,Complete,922,954
+ICR5_T1,MMS,Incomplete,15,954
+ICR5_T1,Piling,Pile Casting,5721,5724
+ICR5_T1,Piling,Auguring,5724,5724
+ICR5_T1,Piling,Marking,5724,5724
+ICR5_T1,Piling,Incomplete,0,5724
+ICR8_T1,Modules,Complete,435,954
+ICR8_T1,Modules,Partially,11,954
+ICR8_T1,Modules,Incomplete,508,954
+ICR8_T1,MMS,Partially,67,954
+ICR8_T1,MMS,Complete,885,954
+ICR8_T1,MMS,Incomplete,2,954
+ICR8_T1,Piling,Pile Casting,5712,5724
+ICR8_T1,Piling,Auguring,5712,5724
+ICR8_T1,Piling,Marking,5712,5724
+ICR8_T1,Piling,Incomplete,12,5724
+ICR15_T1,Modules,Complete,0,966
+ICR15_T1,Modules,Partially,0,966
+ICR15_T1,Modules,Incomplete,966,966
+ICR15_T1,MMS,Partially,98,966
+ICR15_T1,MMS,Complete,831,966
+ICR15_T1,MMS,Incomplete,37,966
+ICR15_T1,Piling,Pile Casting,5747,5748
+ICR15_T1,Piling,Auguring,5747,5748
+ICR15_T1,Piling,Marking,5747,5748
+ICR15_T1,Piling,Incomplete,1,5748
